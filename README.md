@@ -10,6 +10,15 @@ Listing accepted transliterations of English words from Latin to Shavian.
 
 ---
 
+## Tall
+
+| 𐑐        | 𐑑       | 𐑒        | 𐑓       | 𐑔         | 𐑕      | 𐑖        | 𐑗          | 𐑘       | 𐑙        |
+| -------- | ------- | -------- | ------- | --------- | ------ | -------- | ---------- | ------- | -------- |
+| /p/      | /t/     | /k/      | /f/     | /θ/       | /s/    | /ʃ/      | /tʃ/       | /j/     | /ŋ/      |
+| **p**eep | **t**ot | **k**ick | **f**ee | **th**igh | **s**o | **s**ure | **ch**urch | **y**ea | hu**ng** |
+
+---
+
 ## A
 
 | 𐑤𐑨𐑑𐑩𐑯 / Latin | 𐑖𐑱𐑝𐑾𐑯 / Shavian |
