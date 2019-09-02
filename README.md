@@ -10,7 +10,7 @@ Listing accepted transliterations of English words from Latin to Shavian.
 
 ---
 
-_**Note:** [Alphabet Key](https://github.com/LabOrganism/ShavianLexicon/blob/master/README.md#alphabet)_
+_**Note:** [Alphabet Key](https://github.com/LabOrganism/ShavianLexicon/blob/master/README.md#alphabet-key)_
 
 ---
 
@@ -23,7 +23,7 @@ _**Note:** [Alphabet Key](https://github.com/LabOrganism/ShavianLexicon/blob/mas
 
 ---
 
-## Alphabet
+## Alphabet Key
 
 ### Tall
 
