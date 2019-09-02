@@ -10,6 +10,10 @@ Listing accepted transliterations of English words from Latin to Shavian.
 
 ---
 
+_**Note:** [Alphabet Key](https://github.com/LabOrganism/ShavianLexicon/blob/master/README.md#alphabet)_
+
+---
+
 ## A
 
 | 𐑤𐑨𐑑𐑩𐑯 / Latin | 𐑖𐑱𐑝𐑾𐑯 / Shavian |
