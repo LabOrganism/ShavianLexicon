@@ -7,3 +7,12 @@
 # Shavian Lexicon
 
 Listing accepted transliterations of English words from Latin to Shavian.
+
+---
+
+## A
+
+| 𐑤𐑨𐑑𐑩𐑯 / Latin | 𐑖𐑱𐑝𐑾𐑯 / Shavian |
+| ------------- | --------------- |
+| a             | 𐑩               |
+| abhorrence    | 𐑩𐑚𐑣𐑪𐑮𐑩𐑯𐑕        |
